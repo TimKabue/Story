@@ -9,4 +9,6 @@
 
 5. $ git commit -m "Initial commit" => uploads tracked files
 
-6. 
+6. $ git add . => To add/track every file in the directory.
+
+7. $ git log => see a history of all commits in that dir
