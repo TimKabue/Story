@@ -1,0 +1,12 @@
+1. In working directory: $ git init
+
+2. If you $ ls, you'll see a hidden git file => .git/
+
+3. $git status => shows you all files that are or not being tracked.
+
+4. $ git add someFile.txt => to track this file
+4.1 $ git status; would show this file is now tracked
+
+5. $ git commit -m "Initial commit" => uploads tracked files
+
+6. 
