@@ -1,18 +1,1 @@
-1. In working directory: $ git init
-1.1 If you, $ ls, you'll see a hidden git file => .git/
-
-2. $git status => shows you all files that are or not being tracked in red and viceversa in green.
-
-3. $ git add someFile.txt => to track this file
-3.1 $ git add . => To add/track every file in the directory.
-3.2 $ git status; would show this file is now tracked
-
-4. $ git commit -m "Initial commit" => uploads tracked files
-
-a. $ git log => see a history of all commits in that dir
-
-b. $ git diff someChangedFile.txt => shows you the difference in this current file against the last committed one.
-
-c. $ git checkout someChangedFile.txt => reverts this file to the version of the last committed.
-
-NOTE: All changes in any file must be $ git add file.txt then $ git commit -m "Something..."
+Space is very quiet and cold.
